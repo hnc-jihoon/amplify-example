@@ -1,0 +1,7 @@
+{
+    "tableName": "dynamoForAmplifyExample",
+    "partitionKeyName": "colA",
+    "partitionKeyType": "S",
+    "sortKeyName": "colB",
+    "sortKeyType": "S"
+}
