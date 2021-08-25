@@ -10,6 +10,14 @@
       "StackName": "amplify-amplifyexample-dev-115433",
       "StackId": "arn:aws:cloudformation:ap-northeast-2:626578793333:stack/amplify-amplifyexample-dev-115433/38ca8930-059b-11ec-a213-0684fb143866",
       "AmplifyAppId": "d38p1hx08pthne"
+    },
+    "categories": {
+      "function": {
+        "AmplifyExampleLambda": {
+          "deploymentBucketName": "amplify-amplifyexample-dev-115433-deployment",
+          "s3Key": "amplify-builds/AmplifyExampleLambda-76304662445843316e54-build.zip"
+        }
+      }
     }
   }
 }
